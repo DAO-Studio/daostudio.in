@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="612" viewBox="0 0 420 612" role="img" aria-labelledby="staffing-steps-title staffing-steps-desc">
+<title id="staffing-steps-title">Staffing grows in whole steps</title><desc id="staffing-steps-desc">Budget one operator per 100 paying Tier 2 customers, rounded up, then one manager per ten operators, rounded up. The solid line counts operators and the dashed line counts managers. At 1000 customers the budget is ten operators and one manager; at 1001 it is eleven and two. A whole step at the next customer.</desc>
+<text x="20" y="30" fill="var(--color-ink, #213529)" font-family="var(--type-family-reading, sans-serif)" font-size="20">One operator per 100 customers</text>
+<text x="20" y="60" fill="var(--color-ink, #213529)" font-family="var(--type-family-reading, sans-serif)" font-size="20">One manager per 10 operators</text>
+<text x="20" y="90" fill="var(--color-ink, #213529)" font-family="var(--type-family-reading, sans-serif)" font-size="20">Round up at each step.</text>
+<path d="M20 126H46" fill="none" stroke="var(--color-ink, #213529)" stroke-width="2.5"/>
+<text x="56" y="133" fill="var(--color-ink, #213529)" font-family="var(--type-family-reading, sans-serif)" font-size="20">Operators</text>
+<path d="M226 126H252" fill="none" stroke="var(--color-ink, #213529)" stroke-width="2.5" stroke-dasharray="6 4"/>
+<text x="262" y="133" fill="var(--color-ink, #213529)" font-family="var(--type-family-reading, sans-serif)" font-size="20">Managers</text>
+<text x="70" y="176" fill="var(--color-ink, #213529)" font-family="var(--type-family-reading, sans-serif)" font-size="20">Budgeted people</text>
+<path d="M70 446H390" fill="none" stroke="var(--color-ink, #213529)" stroke-width="1" opacity="0.22"/>
+<text x="58" y="452.5" fill="var(--color-ink, #213529)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="18" text-anchor="end" opacity="0.7">0</text>
+<path d="M70 406H390" fill="none" stroke="var(--color-ink, #213529)" stroke-width="1" opacity="0.22"/>
+<text x="58" y="412.5" fill="var(--color-ink, #213529)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="18" text-anchor="end" opacity="0.7">2</text>
+<path d="M70 366H390" fill="none" stroke="var(--color-ink, #213529)" stroke-width="1" opacity="0.22"/>
+<text x="58" y="372.5" fill="var(--color-ink, #213529)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="18" text-anchor="end" opacity="0.7">4</text>
+<path d="M70 326H390" fill="none" stroke="var(--color-ink, #213529)" stroke-width="1" opacity="0.22"/>
+<text x="58" y="332.5" fill="var(--color-ink, #213529)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="18" text-anchor="end" opacity="0.7">6</text>
+<path d="M70 286H390" fill="none" stroke="var(--color-ink, #213529)" stroke-width="1" opacity="0.22"/>
+<text x="58" y="292.5" fill="var(--color-ink, #213529)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="18" text-anchor="end" opacity="0.7">8</text>
+<path d="M70 246H390" fill="none" stroke="var(--color-ink, #213529)" stroke-width="1" opacity="0.22"/>
+<text x="58" y="252.5" fill="var(--color-ink, #213529)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="18" text-anchor="end" opacity="0.7">10</text>
+<path d="M70 206H390" fill="none" stroke="var(--color-ink, #213529)" stroke-width="1" opacity="0.22"/>
+<text x="58" y="212.5" fill="var(--color-ink, #213529)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="18" text-anchor="end" opacity="0.7">12</text>
+<path d="M70 446V453" fill="none" stroke="var(--color-ink, #213529)" stroke-width="1.5" opacity="0.7"/>
+<text x="70" y="473" fill="var(--color-ink, #213529)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="18" text-anchor="middle" opacity="0.7">0</text>
+<path d="M176.667 446V453" fill="none" stroke="var(--color-ink, #213529)" stroke-width="1.5" opacity="0.7"/>
+<text x="176.667" y="473" fill="var(--color-ink, #213529)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="18" text-anchor="middle" opacity="0.7">400</text>
+<path d="M283.333 446V453" fill="none" stroke="var(--color-ink, #213529)" stroke-width="1.5" opacity="0.7"/>
+<text x="283.333" y="473" fill="var(--color-ink, #213529)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="18" text-anchor="middle" opacity="0.7">800</text>
+<path d="M390 446V453" fill="none" stroke="var(--color-ink, #213529)" stroke-width="1.5" opacity="0.7"/>
+<text x="390" y="473" fill="var(--color-ink, #213529)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="18" text-anchor="middle" opacity="0.7">1200</text>
+<path d="M70 446 L70.267 446 V426 H96.933 V406 H123.6 V386 H150.267 V366 H176.933 V346 H203.6 V326 H230.267 V306 H256.933 V286 H283.6 V266 H310.267 V246 H336.933 V226 H363.6 V206 H390" fill="none" stroke="var(--color-ink, #213529)" stroke-width="2.5"/>
+<path d="M70 446 L70.267 446 V426 H336.933 V406 H390" fill="none" stroke="var(--color-ink, #213529)" stroke-width="2.5" stroke-dasharray="6 4"/>
+<text x="230" y="512" fill="var(--color-ink, #213529)" font-family="var(--type-family-reading, sans-serif)" font-size="20" text-anchor="middle">Paying Tier 2 customers</text>
+<text x="20" y="562" fill="var(--color-ink, #213529)" font-family="var(--type-family-reading, sans-serif)" font-size="20">1,000: 10 operators, 1 manager</text>
+<text x="20" y="592" fill="var(--color-ink, #213529)" font-family="var(--type-family-reading, sans-serif)" font-size="20">1,001: 11 operators, 2 managers</text>
+</svg>

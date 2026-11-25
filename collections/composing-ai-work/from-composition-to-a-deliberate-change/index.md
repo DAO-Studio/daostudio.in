@@ -2,8 +2,6 @@ Title: From composition to a deliberate change
 
 [Read HTML](https://daostudio.in/collections/composing-ai-work/from-composition-to-a-deliberate-change/)
 
-Author: Harsh Joshi
-
 A purchasing assistant has extracted an agreement's payment terms and is waiting for a delivery date. Someone can supply the date, and a reviewer can check the terms, before the rest of the work continues. [YojnAI's](https://daostudio.in/yojnai/) composition model gives that contribution a place: an intermediate result, a check and an application that can resume when the missing context arrives. The [guide to the purchase request](https://daostudio.in/yojnai/compose-inspect-and-improve/) sets out the example; the first article here develops it.
 
 Suppose the completed report is still wrong, because the reviewer disputes a payment term. The composition identifies work we can investigate; its execution record helps follow what happened. A faulty extraction, a bad lookup and a correction lost later point towards different remedies. The investigation can now choose a part to change rather than begin again from the final answer.

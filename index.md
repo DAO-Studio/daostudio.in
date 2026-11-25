@@ -2,8 +2,6 @@ Title: DAO Studio
 
 [Read HTML](https://daostudio.in/)
 
-Author: Harsh Joshi
-
 ![A mechanical owl with camera-like eyes and intricately connected parts.](https://daostudio.in/assets/renditions/owl/poses/front.webp)
 
 [Front](https://daostudio.in/assets/renditions/owl/poses/front.webp) [Left](https://daostudio.in/assets/renditions/owl/poses/left.webp) [Right](https://daostudio.in/assets/renditions/owl/poses/right.webp) [Up](https://daostudio.in/assets/renditions/owl/poses/up.webp) [Down](https://daostudio.in/assets/renditions/owl/poses/down.webp)
@@ -38,7 +36,7 @@ A protocol design for finding and reusing AI capabilities with their context and
 
 **How can we discuss a product or purchase?**
 
-The products are paused. DAO Studio’s products remain available through [RawThoughts consulting](https://rawthoughts.in/services/). Bring your requirements to discuss purchase, delivery scope and licensing with RTEPL.
+The products are paused. DAO Studio’s products remain available through [RawThoughts consulting](https://rawthoughts.in/services/) (on RawThoughts). Bring your requirements to discuss purchase, delivery scope and licensing with RTEPL.
 
 **How do the three products differ?**
 

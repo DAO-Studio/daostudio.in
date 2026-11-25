@@ -2,8 +2,6 @@ Title: Composing AI work
 
 [Read HTML](https://daostudio.in/collections/composing-ai-work/)
 
-Author: Harsh Joshi
-
 An application can be useful before it has a final answer. Someone can review the terms already extracted from an agreement while another person supplies the date still missing from a purchase. Work has begun, and people have something meaningful to contribute. Waiting for one finished response would hide that opportunity.
 
 [YojnAI](https://daostudio.in/yojnai/) brings this question into a platform for composing, deploying, inspecting and improving AI applications. It reached pilots in investment banking, operations and the CFO office; its wider ambition is to make this developing work available to the people and systems around it. The interesting unit is not merely a model capable of answering. It is a contribution another person or component could use, question and change without losing the rest of the operation. That asks for a place to enter, an account of what has already happened and a way to see which later work depends on a correction.

@@ -2,8 +2,6 @@ Title: YojnAI
 
 [Read HTML](https://daostudio.in/yojnai/)
 
-Author: Harsh Joshi
-
 <a id="yojnai"></a>
 
 # YojnAI
@@ -79,4 +77,4 @@ Pilots in investment banking, operations and the CFO office covered invoices, ag
 
 **How can we obtain YojnAI?**
 
-YojnAI remains available through [RawThoughts consulting](https://rawthoughts.in/services/). Each engagement sets the application scope, integration, deployment and licensing for your use.
+YojnAI remains available through [RawThoughts consulting](https://rawthoughts.in/services/) (on RawThoughts). Each engagement sets the application scope, integration, deployment and licensing for your use.

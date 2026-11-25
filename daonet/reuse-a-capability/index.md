@@ -10,7 +10,7 @@ Rights holder: DAO Studio Private Limited
 
 Another team has an invoice-extraction workflow you would like to use. It returns supplier fields and payment terms, with their locations in the document. Your application could use those results to prepare a payment for review. What must travel with the workflow for you to rely on it?
 
-[DAOnet](https://daostudio.in/daonet/) connects discovery and reuse with execution, continuing memory and a shared account of the exchange. It is paused and remains a protocol design; this worked example explains the exchange rather than a running marketplace. Scope for any work on it is agreed through [RawThoughts consulting](https://rawthoughts.in/services/).
+[DAOnet](https://daostudio.in/daonet/) connects discovery and reuse with execution, continuing memory and a shared account of the exchange. It is paused and remains a protocol design; this worked example explains the exchange rather than a running marketplace. Scope for any work on it is agreed through [RawThoughts consulting](https://rawthoughts.in/services/) (on RawThoughts).
 
 <a id="find-out-what-the-workflow-returns"></a>
 

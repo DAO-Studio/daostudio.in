@@ -2,8 +2,6 @@ Title: Coordinating emergencies
 
 [Read HTML](https://daostudio.in/collections/coordinating-emergencies/)
 
-Author: Harsh Joshi
-
 Someone asks for help. The service receives the request, but a nearby contact is unavailable and the image sent to a reviewer is old. There is already something to handle. The next person needs a way to carry it without pretending that the missing part has been settled.
 
 [YOJN Care](https://daostudio.in/yojn-care/) brings that continuity into an emergency-response product for homes, shops and neighbourhoods, connecting personal SOS, monitored sites, human review and intended response. A deliberate request and a camera observation can begin different work. People need enough evidence to judge the situation, enough room to correct an interpretation and an intelligible commitment when the incident passes to somebody else. The incident keeps changing while those contributions travel.

@@ -2,8 +2,6 @@ Title: YOJN Care
 
 [Read HTML](https://daostudio.in/yojn-care/)
 
-Author: Harsh Joshi
-
 <a id="yojn-care"></a>
 
 # YOJN Care
@@ -92,4 +90,4 @@ No. Raising an alert, reviewing it, dispatching help and arriving are separate s
 
 **How can we obtain YOJN Care?**
 
-YOJN Care remains available through [RawThoughts consulting](https://rawthoughts.in/services/). Bring the response workflow you need. Scope, delivery and licensing are agreed for the engagement.
+YOJN Care remains available through [RawThoughts consulting](https://rawthoughts.in/services/) (on RawThoughts). Bring the response workflow you need. Scope, delivery and licensing are agreed for the engagement.

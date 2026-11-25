@@ -4,82 +4,15 @@
 
 
 
-- [About DAO Studio](https://daostudio.in/about/index.md): How an ambition to help people create decentralised, autonomous organisations became three ways to make AI capability useful. ([HTML](https://daostudio.in/about/))
+## Start here
 
-- [Evolution of AI, and its future in B2B](https://daostudio.in/blog/evolution-of-ai-and-its-future-in-b2b/index.md): From the Doordarshan antenna to an AI front desk: why control, explanation, efficiency and the knowledge inside a business have to develop together. ([HTML](https://daostudio.in/blog/evolution-of-ai-and-its-future-in-b2b/))
-
-- [Follow the data, not the deployment label](https://daostudio.in/blog/follow-the-data/index.md): A document can begin on the customer's machine while its request, trace and feedback continue through other services. ([HTML](https://daostudio.in/blog/follow-the-data/))
-
-- [Blog](https://daostudio.in/blog/index.md): Composition, feedback, response and the questions behind DAO Studio's work. ([HTML](https://daostudio.in/blog/))
-
-- [The organisation around the AI](https://daostudio.in/blog/the-organisation-around-the-ai/index.md): How a business turns its interest in AI into a task its people can use, maintain and improve. ([HTML](https://daostudio.in/blog/the-organisation-around-the-ai/))
-
-- [Turning service work into reusable capability](https://daostudio.in/blog/turning-service-work-into-reusable-capability/index.md): The second customer's similar request reveals which part of a service can become a product. ([HTML](https://daostudio.in/blog/turning-service-work-into-reusable-capability/))
-
-- [An agent, a playbook and an application](https://daostudio.in/collections/composing-ai-work/from-composition-to-a-deliberate-change/agent-playbook-and-application/index.md): A pending purchase shows how agents, checked playbooks and application state let other people and systems join the work. ([HTML](https://daostudio.in/collections/composing-ai-work/from-composition-to-a-deliberate-change/agent-playbook-and-application/))
-
-- [From feedback to a version worth using](https://daostudio.in/collections/composing-ai-work/from-composition-to-a-deliberate-change/from-feedback-to-a-version-worth-using/index.md): A disputed supplier term follows different routes to improvement, from source correction to a compared application version. ([HTML](https://daostudio.in/collections/composing-ai-work/from-composition-to-a-deliberate-change/from-feedback-to-a-version-worth-using/))
-
-- [From composition to a deliberate change](https://daostudio.in/collections/composing-ai-work/from-composition-to-a-deliberate-change/index.md): Application units, the execution record and a version change chosen on purpose. ([HTML](https://daostudio.in/collections/composing-ai-work/from-composition-to-a-deliberate-change/))
-
-- [Reading the work behind an answer](https://daostudio.in/collections/composing-ai-work/from-composition-to-a-deliberate-change/reading-the-work-behind-an-answer/index.md): Following a disputed payment term through retrieval, extraction and review turns a wrong answer into a useful investigation. ([HTML](https://daostudio.in/collections/composing-ai-work/from-composition-to-a-deliberate-change/reading-the-work-behind-an-answer/))
-
-- [Composing AI work](https://daostudio.in/collections/composing-ai-work/index.md): The context, traces, feedback and versions around a model-driven application. ([HTML](https://daostudio.in/collections/composing-ai-work/))
-
-- [An interface with room to act](https://daostudio.in/collections/coordinating-emergencies/an-interface-with-room-to-act/index.md): How an emergency interface carries intention, uncertainty and changing commitments through a constrained moment. ([HTML](https://daostudio.in/collections/coordinating-emergencies/an-interface-with-room-to-act/))
-
-- [Coordinating emergencies](https://daostudio.in/collections/coordinating-emergencies/index.md): The interface, evidence path, evaluation and continuing work behind an emergency response. ([HTML](https://daostudio.in/collections/coordinating-emergencies/))
-
-- [The cases that are still waiting](https://daostudio.in/collections/coordinating-emergencies/the-cases-that-are-still-waiting/index.md): An unfinished judgment changes how a response service should understand its results, workload and incentives. ([HTML](https://daostudio.in/collections/coordinating-emergencies/the-cases-that-are-still-waiting/))
-
-- [The cost of continuing response](https://daostudio.in/collections/coordinating-emergencies/the-cost-of-continuing-response/index.md): How staffing, arrival patterns and recurring operational work shape the economics of a response service. ([HTML](https://daostudio.in/collections/coordinating-emergencies/the-cost-of-continuing-response/))
-
-- [The evidence path](https://daostudio.in/collections/coordinating-emergencies/the-evidence-path/index.md): What it takes for a connected deployment to deliver usable, timely evidence to the person reviewing an event. ([HTML](https://daostudio.in/collections/coordinating-emergencies/the-evidence-path/))
-
-- [Who carries the incident?](https://daostudio.in/collections/coordinating-emergencies/who-carries-the-incident/index.md): An alert reaches several people; the response depends on keeping its evidence and next commitment together. ([HTML](https://daostudio.in/collections/coordinating-emergencies/who-carries-the-incident/))
+- [DAO Studio](https://daostudio.in/index.md) ([HTML](https://daostudio.in/))
 
 - [Thoughts](https://daostudio.in/collections/index.md): Three inquiries from the studio's products: how an incident is carried from request to response, how people join an application while it is working and what a capability must preserve to serve another team. Standalone essays are on the Blog. ([HTML](https://daostudio.in/collections/))
 
-- [A precognition court for AI](https://daostudio.in/collections/protocols-and-reuse/a-court-before-the-consequence/a-precognition-court-for-ai/index.md): A thought experiment in keeping an AI from rewriting its own rules: a shared ledger, an independent court and people who can improve the law. ([HTML](https://daostudio.in/collections/protocols-and-reuse/a-court-before-the-consequence/a-precognition-court-for-ai/))
+- [Blog](https://daostudio.in/blog/index.md): Composition, feedback, response and the questions behind DAO Studio's work. ([HTML](https://daostudio.in/blog/))
 
-- [A court before the consequence](https://daostudio.in/collections/protocols-and-reuse/a-court-before-the-consequence/index.md): From a judgment people can contest to the release of the version it examined and the common record of both. ([HTML](https://daostudio.in/collections/protocols-and-reuse/a-court-before-the-consequence/))
+- [About DAO Studio](https://daostudio.in/about/index.md): How an ambition to help people create decentralised, autonomous organisations became three ways to make AI capability useful. ([HTML](https://daostudio.in/about/))
 
-- [When an approval reaches the effect](https://daostudio.in/collections/protocols-and-reuse/a-court-before-the-consequence/when-an-approval-reaches-the-effect/index.md): A document-release example: an approval names the version it examined, the release path checks it, and the record says what happened. ([HTML](https://daostudio.in/collections/protocols-and-reuse/a-court-before-the-consequence/when-an-approval-reaches-the-effect/))
-
-- [Protocols and reuse](https://daostudio.in/collections/protocols-and-reuse/index.md): What shared AI capabilities must preserve, and what decentralisation would actually add. ([HTML](https://daostudio.in/collections/protocols-and-reuse/))
-
-- [Some things never change. It’s time they do…](https://daostudio.in/collections/protocols-and-reuse/some-things-never-change/index.md): From YojnAI’s memory wrappers to a harder question: how could learned capacities be recombined, and what would useful reuse have to preserve? ([HTML](https://daostudio.in/collections/protocols-and-reuse/some-things-never-change/))
-
-- [DAOnet](https://daostudio.in/daonet/index.md): Build on another team’s AI capability with its context, version and agreed use understood across applications. ([HTML](https://daostudio.in/daonet/))
-
-- [DAOnet mentions](https://daostudio.in/daonet/mentions/index.md): Writing across the connected publications that discusses DAOnet without belonging to its help; for how the product works, start with Reuse a capability. ([HTML](https://daostudio.in/daonet/mentions/))
-
-- [Reuse a capability](https://daostudio.in/daonet/reuse-a-capability/index.md): Follow an invoice-extraction workflow into another application, keeping its version, evidence and terms of use. ([HTML](https://daostudio.in/daonet/reuse-a-capability/))
-
-- [DAO Studio](https://daostudio.in/index.md): Make AI useful through composed applications, coordinated response and capabilities others can build upon. ([HTML](https://daostudio.in/))
-
-- [Privacy notice](https://daostudio.in/privacy/index.md): Website hosting, email contact, reading preferences and external reading assistance for DAO Studio. ([HTML](https://daostudio.in/privacy/))
-
-- [Search](https://daostudio.in/search/index.md): Find pages, articles and collections from DAO Studio. ([HTML](https://daostudio.in/search/))
-
-- [Terms of use](https://daostudio.in/terms/index.md): Use and reuse of DAO Studio and contact with the publisher. ([HTML](https://daostudio.in/terms/))
-
-- [Follow an incident](https://daostudio.in/yojn-care/follow-an-incident/index.md): Follow a shop incident from a camera alert or personal SOS through review and handover. ([HTML](https://daostudio.in/yojn-care/follow-an-incident/))
-
-- [YOJN Care](https://daostudio.in/yojn-care/index.md): Connect personal requests, camera evidence and human review so an incident can become a continuing response. ([HTML](https://daostudio.in/yojn-care/))
-
-- [YOJN Care mentions](https://daostudio.in/yojn-care/mentions/index.md): Writing across the connected publications that discusses YOJN Care without belonging to its help; for how the product works, start with Follow an incident. ([HTML](https://daostudio.in/yojn-care/mentions/))
-
-- [Understand a personal request](https://daostudio.in/yojn-care/personal-requests/index.md): Follow an SOS from sending and receipt to someone handling it, including what happens after a correction. ([HTML](https://daostudio.in/yojn-care/personal-requests/))
-
-- [Review an incident and carry it onward](https://daostudio.in/yojn-care/review-and-handover/index.md): Keep the evidence, calls and unanswered questions together when another operator takes over an incident. ([HTML](https://daostudio.in/yojn-care/review-and-handover/))
-
-- [Compose, inspect and improve an application](https://daostudio.in/yojnai/compose-inspect-and-improve/index.md): Follow a purchase request through agents and playbooks, and see where people can supply context or correct a result. ([HTML](https://daostudio.in/yojnai/compose-inspect-and-improve/))
-
-- [YojnAI](https://daostudio.in/yojnai/index.md): Compose AI applications people can inspect, guide and improve, connecting models and tools to real organisational work. ([HTML](https://daostudio.in/yojnai/))
-
-- [YojnAI mentions](https://daostudio.in/yojnai/mentions/index.md): Writing across the connected publications that discusses YojnAI without belonging to its help; for how the product works, start with Compose, inspect and improve an application. ([HTML](https://daostudio.in/yojnai/mentions/))
-
-- [Review a disputed answer](https://daostudio.in/yojnai/review-a-disputed-answer/index.md): Use the application’s sources and intermediate work to locate what needs correcting before choosing an improvement. ([HTML](https://daostudio.in/yojnai/review-a-disputed-answer/))
 
 

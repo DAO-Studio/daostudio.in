@@ -86,7 +86,7 @@ An application configuration can have several versions, which count as one servi
 
 The purchase can now continue through a useful division of work. The extraction supplies terms with their source; the customer supplies a date; the reviewer corrects a value; the playbook assembles the dependent draft. The application makes those contributions part of one operation without treating them as one undifferentiated prompt. A change has somewhere to enter, and the work it affects has somewhere to continue.
 
-The larger question of whether [learned capacities themselves can be composed](https://getharsh.in/collections/meaning-models-and-creative-practice/the-intelligence-between-the-parts/) remains compelling. Here the useful unit is more immediate: a contribution whose meaning and dependencies let another person or system join the work before the final answer exists.
+The larger question of whether [learned capacities themselves can be composed](https://getharsh.in/collections/meaning-models-and-creative-practice/the-intelligence-between-the-parts/) (on getHarsh) remains compelling. Here the useful unit is more immediate: a contribution whose meaning and dependencies let another person or system join the work before the final answer exists.
 
 
 ## Article notes

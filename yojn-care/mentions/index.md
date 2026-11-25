@@ -2,8 +2,6 @@ Title: YOJN Care mentions
 
 [Read HTML](https://daostudio.in/yojn-care/mentions/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 1

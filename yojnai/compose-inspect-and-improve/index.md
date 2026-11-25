@@ -12,7 +12,7 @@ Your purchasing assistant has found the agreement and extracted its payment term
 
 [YojnAI](https://daostudio.in/yojnai/) lets teams participate in that unfinished work, connecting models, tools and checks with intermediate results people can inspect. This hypothetical purchase follows the application design from a source document to a reviewed change.
 
-YojnAI is paused as a product. Delivery and integration remain available through [RawThoughts consulting](https://rawthoughts.in/services/); this guide explains the application model.
+YojnAI is paused as a product. Delivery and integration remain available through [RawThoughts consulting](https://rawthoughts.in/services/) (on RawThoughts); this guide explains the application model.
 
 <a id="give-each-part-of-the-purchase-a-job"></a>
 

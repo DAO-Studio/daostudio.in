@@ -2,8 +2,6 @@ Title: DAOnet mentions
 
 [Read HTML](https://daostudio.in/daonet/mentions/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 1

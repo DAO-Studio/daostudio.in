@@ -96,7 +96,7 @@ That was the force of my complaint about the API model. The familiar interface c
 
 My gut said a blockchain might have a role here. A shared record could help parties coordinate contributions, versions or use. It would still need something meaningful to record. The road from a ledger to a working M3 is long and hard.
 
-The inquiry continues in [The intelligence between the parts](https://getharsh.in/collections/meaning-models-and-creative-practice/the-intelligence-between-the-parts/). It asks what must pass between learned capacities for their combination to retain meaning. There is also nearer work we can do without claiming to have solved that problem: make the capabilities we already know how to share intelligible to their next user.
+The inquiry continues in [The intelligence between the parts](https://getharsh.in/collections/meaning-models-and-creative-practice/the-intelligence-between-the-parts/) (on getHarsh). It asks what must pass between learned capacities for their combination to retain meaning. There is also nearer work we can do without claiming to have solved that problem: make the capabilities we already know how to share intelligible to their next user.
 
 <a id="several-different-things-can-look-like-intelligence"></a>
 

@@ -2,8 +2,6 @@ Title: DAOnet
 
 [Read HTML](https://daostudio.in/daonet/)
 
-Author: Harsh Joshi
-
 <a id="daonet"></a>
 
 # DAOnet
@@ -70,4 +68,4 @@ Its version, conditions of use and the context needed to interpret its results. 
 
 **How can we obtain DAOnet?**
 
-[RawThoughts consulting](https://rawthoughts.in/services/) is the route for the reuse, shared execution or exchange problem you want it to address, with scope, implementation and applicable licensing agreed for the engagement.
+[RawThoughts consulting](https://rawthoughts.in/services/) (on RawThoughts) is the route for the reuse, shared execution or exchange problem you want it to address, with scope, implementation and applicable licensing agreed for the engagement.

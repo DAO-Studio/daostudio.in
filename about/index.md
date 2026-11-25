@@ -2,8 +2,6 @@ Title: About DAO Studio
 
 [Read HTML](https://daostudio.in/about/)
 
-Author: Harsh Joshi
-
 Make useful AI something people can build with, understand and improve.
 
 DAO Studio connects product development, consulting and research around that purpose. Its founding ambition was to help people create decentralised, autonomous organisations, inspired by Amul and Lijjat Papad. Shared capability could give a smaller organisation more to build with, while leaving people more time for meaningful work and relationships.
@@ -56,6 +54,6 @@ A natural conversation can make a service easier to reach. Behind it, people sti
 
 People, products and a route into your work.
 
-[Harsh Joshi](https://getharsh.in/about/) and Shashwat Pandey founded DAO Studio in October 2022. Care grew from Harsh’s earlier work leading product and engineering at Sachait, an emergency-response company; YojnAI reached pilots in investment banking, operations and the CFO office. Those experiences connect the studio’s product questions to Harsh’s wider work on making complex systems useful to people.
+[Harsh Joshi](https://getharsh.in/about/) (on getHarsh) and Shashwat Pandey founded DAO Studio in October 2022. Care grew from Harsh’s earlier work leading product and engineering at Sachait, an emergency-response company; YojnAI reached pilots in investment banking, operations and the CFO office. Those experiences connect the studio’s product questions to Harsh’s wider work on making complex systems useful to people.
 
-DAO Studio Private Limited (DSPL) owns the studio and its products. It is legally separate from RawThoughts Enterprises Private Limited (RTEPL). The products are paused. Work on them is available through RTEPL consulting engagements; enquiries and purchase conversations go through [RawThoughts’ services](https://rawthoughts.in/services/). Any delivery and licensing must be agreed for the particular engagement.
+DAO Studio Private Limited (DSPL) owns the studio and its products. It is legally separate from RawThoughts Enterprises Private Limited (RTEPL). The products are paused. Work on them is available through RTEPL consulting engagements; enquiries and purchase conversations go through [RawThoughts’ services](https://rawthoughts.in/services/) (on RawThoughts). Any delivery and licensing must be agreed for the particular engagement.

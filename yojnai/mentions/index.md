@@ -2,8 +2,6 @@ Title: YojnAI mentions
 
 [Read HTML](https://daostudio.in/yojnai/mentions/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 1

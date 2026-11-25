@@ -2,8 +2,6 @@ Title: Protocols and reuse
 
 [Read HTML](https://daostudio.in/collections/protocols-and-reuse/)
 
-Author: Harsh Joshi
-
 Useful work should be able to accumulate. A team that has made an invoice-reading capability reliable ought to be able to contribute something to the next application without rebuilding the entire service. The difficulty is deciding what that contribution actually contains. A package of code, a customer's business rules, a trained model and an operating service ask different things of the team receiving them.
 
 An interface tells a consumer how to invoke [a reusable capability](https://daostudio.in/collections/protocols-and-reuse/some-things-never-change/); its version, dependencies and evaluation help explain when the result can be useful. The conditions of use determine whether it can travel at all. [Service work can reveal the repeated need](https://daostudio.in/blog/turning-service-work-into-reusable-capability/), while still leaving a particular customer's data and commitments with them. The next adoption becomes easier through a stable contribution, not through quietly carrying those private dependencies forward.

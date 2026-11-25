@@ -2,8 +2,6 @@ Title: Privacy notice
 
 [Read HTML](https://daostudio.in/privacy/)
 
-Author: Harsh Joshi
-
 <a id="privacy-notice"></a>
 
 # Privacy notice
@@ -58,7 +56,7 @@ This website holds no accounts and receives no form submissions. If a personal-d
 
 ## Your choices
 
-Following another external link takes you to that service under its own data practices. Links to RawThoughts services lead to [rawthoughts.in](https://rawthoughts.in/), which RTEPL publishes under its own [privacy notice](https://rawthoughts.in/privacy/).
+Following another external link takes you to that service under its own data practices. Links to RawThoughts services lead to [rawthoughts.in](https://rawthoughts.in/) (on RawThoughts), which RTEPL publishes under its own [privacy notice](https://rawthoughts.in/privacy/) (on RawThoughts).
 
 You may ask us about your data, request correction or deletion, withdraw consent or raise a concern using the contact above. Requests are handled under applicable law; information needed to comply with a legal obligation or resolve a dispute may need to be kept. Withdrawing consent does not undo processing that has already occurred lawfully.
 

@@ -88,7 +88,7 @@ My uncle's advice was simpler: you do not need a helmet every day; you need it o
 
 That is the spirit of the court. Think about the restraint before the accident, and make sure it is attached to something that can actually restrain the action.
 
-For a more grounded view of the state of AI, there is [The autocorrect paradox](https://rawthoughts.in/blog/the-autocorrect-paradox/).
+For a more grounded view of the state of AI, there is [The autocorrect paradox](https://rawthoughts.in/blog/the-autocorrect-paradox/) (on RawThoughts).
 
 1. 
    

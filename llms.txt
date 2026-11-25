@@ -15,4 +15,29 @@
 - [About DAO Studio](https://daostudio.in/about/index.md): How an ambition to help people create decentralised, autonomous organisations became three ways to make AI capability useful. ([HTML](https://daostudio.in/about/))
 
 
+## Projects and products
+
+- [DAOnet](https://daostudio.in/daonet/index.md): Build on another team’s AI capability with its context, version and agreed use understood across applications. ([HTML](https://daostudio.in/daonet/))
+
+- [YOJN Care](https://daostudio.in/yojn-care/index.md): Connect personal requests, camera evidence and human review so an incident can become a continuing response. ([HTML](https://daostudio.in/yojn-care/))
+
+- [YojnAI](https://daostudio.in/yojnai/index.md): Compose AI applications people can inspect, guide and improve, connecting models and tools to real organisational work. ([HTML](https://daostudio.in/yojnai/))
+
+
+## Collections
+
+- [Composing AI work](https://daostudio.in/collections/composing-ai-work/index.md): The context, traces, feedback and versions around a model-driven application. ([HTML](https://daostudio.in/collections/composing-ai-work/))
+
+- [Coordinating emergencies](https://daostudio.in/collections/coordinating-emergencies/index.md): The interface, evidence path, evaluation and continuing work behind an emergency response. ([HTML](https://daostudio.in/collections/coordinating-emergencies/))
+
+- [Protocols and reuse](https://daostudio.in/collections/protocols-and-reuse/index.md): What shared AI capabilities must preserve, and what decentralisation would actually add. ([HTML](https://daostudio.in/collections/protocols-and-reuse/))
+
+
+## Reading journeys
+
+- [From composition to a deliberate change](https://daostudio.in/collections/composing-ai-work/from-composition-to-a-deliberate-change/index.md): Application units, the execution record and a version change chosen on purpose. ([HTML](https://daostudio.in/collections/composing-ai-work/from-composition-to-a-deliberate-change/))
+
+- [A court before the consequence](https://daostudio.in/collections/protocols-and-reuse/a-court-before-the-consequence/index.md): From a judgment people can contest to the release of the version it examined and the common record of both. ([HTML](https://daostudio.in/collections/protocols-and-reuse/a-court-before-the-consequence/))
+
+
 
